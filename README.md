@@ -6,6 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
 ## About TodoList
 
 **TodoList** adalah aplikasi berbasis web sederhana yang dibangun menggunakan framework **Laravel**. Aplikasi ini dirancang untuk membantu pengguna mengelola tugas harian mereka dengan lebih efisien. Dengan TodoList, pengguna dapat:
